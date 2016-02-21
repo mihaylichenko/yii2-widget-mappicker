@@ -1,11 +1,10 @@
 {
   "name": "msvdev/yii2-widget-mappicker",
-  "description": "Widget input map picker",
+  "description": "Yii2 map widget allows you to simplify the entry of geographic coordinates for your form. Support google and yandex maps services.",
   "keywords": ["yii2", "extension", "widget", "plugin", "map", "yandexmap", "googlemap"],
   "type": "yii2-extension",
-  "version": "1.0.0",
+  "homepage": "https://github.com/mihaylichenko/yii2-widget-mappicker",
   "license": "BSD 3-Clause",
-  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Sergey Mykhaylichenko",
