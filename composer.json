@@ -1,0 +1,23 @@
+{
+  "name": "msvdev/yii2-widget-mappicker",
+  "description": "Widget input map picker",
+  "keywords": ["yii2", "extension", "widget", "plugin", "map", "yandexmap", "googlemap"],
+  "type": "yii2-extension",
+  "version": "1.0.0",
+  "license": "BSD 3-Clause",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Sergey Mykhaylichenko",
+      "email": "senya_m@bk.ru"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "msvdev\\widgets\\mappicker\\": ""
+    }
+  }
+}
