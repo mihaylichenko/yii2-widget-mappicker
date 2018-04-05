@@ -1,7 +1,7 @@
-#Map input widget for Yii2
+# Map input widget for Yii2
 The widget allows you to simplify the entry of geographic coordinates for your form. Support google and yandex maps services.
 
-##Installation
+## Installation
 The preferred way to install this extension is through composer.
 
 ```
@@ -24,12 +24,12 @@ to the `require` section of your `composer.json` file.
 echo $form->field($model, 'coordinatesAttribute')->widget(\msvdev\widgets\mappicker\MapInput::className(), ['apiKey' => 'google_api_key']);
 ```
 
-###Minimal example for yandex maps
+### Minimal example for yandex maps
 ```php
 echo $form->field($model, 'coordinatesAttribute')->widget(\msvdev\widgets\mappicker\MapInput::className(), ['service' => 'yandex']);
 ```
 
-###Example settings
+### Example settings
 ```php
 use \msvdev\widgets\mappicker\MapInput;
 

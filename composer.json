@@ -5,11 +5,12 @@
   "type": "yii2-extension",
   "version": "1.0.0",
   "homepage": "https://github.com/mihaylichenko/yii2-widget-mappicker",
-  "license": "BSD 3-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Sergey Mykhaylichenko",
-      "email": "senya_m@bk.ru"
+      "email": "senya_m@bk.ru",
+      "homepage": "https://github.com/mihaylichenko/"
     }
   ],
   "require": {
