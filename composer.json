@@ -3,7 +3,7 @@
   "description": "Yii2 map widget allows you to simplify the entry of geographic coordinates for your form. Support google and yandex maps services.",
   "keywords": ["yii2", "extension", "widget", "plugin", "map", "yandexmap", "googlemap"],
   "type": "yii2-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/mihaylichenko/yii2-widget-mappicker",
   "license": "MIT",
   "authors": [
